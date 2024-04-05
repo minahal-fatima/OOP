@@ -1,0 +1,17 @@
+﻿  Source.cpp
+C:\Users\minah\OneDrive\Desktop\oop_c++\arraypointer\arraypointer\Source.cpp(86,11): warning C4244: 'return': conversion from 't2' to 't1', possible loss of data
+          with
+          [
+              t2=double
+          ]
+          and
+          [
+              t1=int
+          ]
+C:\Users\minah\OneDrive\Desktop\oop_c++\arraypointer\arraypointer\Source.cpp(93,25): message : see reference to function template instantiation 't1 add<int,double>(t1,t2)' being compiled
+          with
+          [
+              t1=int,
+              t2=double
+          ]
+  arraypointer.vcxproj -> C:\Users\minah\OneDrive\Desktop\oop_c++\arraypointer\x64\Debug\arraypointer.exe
